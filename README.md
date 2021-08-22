@@ -1,2 +1,3 @@
-# Twitter-Sentiment-Analysis
-👍 👎 Twitter Sentiment Classifier models that classify tweets as positive or negative.
+# 👍 👎 Twitter Sentiment Analysis
+
+Several Twitter Sentiment Classifier models that classify tweets as _positive_ or _negative_ using different methods.
