@@ -1,4 +1,4 @@
-# 👍 👎 Twitter Sentiment Analysis
+# 👍👎 Twitter Sentiment Analysis
 
 Several Twitter Sentiment Classifier models that classify tweets as _positive_ or _negative_ using different methods.   
 In the following table I include the links to Google Colaboratory for each model. The _ipynb_ files are included in this repository as well.
