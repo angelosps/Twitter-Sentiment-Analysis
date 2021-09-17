@@ -1,6 +1,7 @@
 # Twitter Sentiment Analysis 👍👎 
 
-Neural Network models that classify tweets as _positive_ or _negative_ using various methods. The dataset is available [here](https://drive.google.com/file/d/1dTIWNpjlrnTQBIQtaGOh0jCRYZiAQO79/view).  
+Neural Network models that classify tweets as _positive_ or _negative_ using various methods.  
+The dataset is available [here](https://drive.google.com/file/d/1dTIWNpjlrnTQBIQtaGOh0jCRYZiAQO79/view).  
 
 ## Models implemented
 - Feed Forward Neural Network
