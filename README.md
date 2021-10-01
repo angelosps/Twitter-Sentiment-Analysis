@@ -8,6 +8,7 @@ The dataset is available [here](https://drive.google.com/file/d/1dTIWNpjlrnTQBIQ
   - with TF-IDF feature generation scheme
   - with GloVe pre-trained word embeddings 
 - Recurrent Neural Network *with GloVe pre-trained word embeddings*
+  and three types of RNNs:
   - simple RNN
   - with GRU cells
   - with LSTM cells
