@@ -17,8 +17,8 @@ In the following table I include the links to Google Colaboratory for the variou
 The _ipynb_ files are included in this repository as well.
 Each notebook is fully documented.
 
-|Method | Notebook | Link to Google Colab |
-|:-:|:-:|:-:|
-| Feed Forward Neural Net using TF-IDF | FFNN_TF-IDF | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12Yh2X91JOkYBEG3yXfcBRjORjHh1KTPy?usp=sharing) |
-| Feed Forward Neural Net using GloVe | FFNN_GloVe | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PbAQPiyTpwWAeKV5LC9bNCERwPZn1qC3?usp=sharing) |
-| Bidirectional Stacked Recurrent Neural Net with GRU/LSTM | BiRNN-GRU/LSTM | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14Th2b3wAUN_3Ujh3MqFhMvAmtqHfVaBU?usp=sharing) |
+|Method | Link to Google Colab |
+|:-:|:-:|
+| Feed Forward Neural Net using TF-IDF | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12Yh2X91JOkYBEG3yXfcBRjORjHh1KTPy?usp=sharing) |
+| Feed Forward Neural Net using GloVe | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PbAQPiyTpwWAeKV5LC9bNCERwPZn1qC3?usp=sharing) |
+| Bidirectional Stacked Recurrent Neural Net with GRU/LSTM | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14Th2b3wAUN_3Ujh3MqFhMvAmtqHfVaBU?usp=sharing) |
